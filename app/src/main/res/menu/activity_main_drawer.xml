@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Tarifas de multas" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Consulta de vehículo por placa" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Consulta de conductor por licencia" />
+        <item
+            android:id="@+id/nav_multa"
+            android:title="Aplicar Multa" />
+        <item
+            android:id="@+id/nav_"
+            android:title="Multas registradas" />
+        <item
+            android:id="@+id/nav_3"
+            android:title="Mapa de multas" />
+        <item
+            android:id="@+id/nav_4"
+            android:title="Noticias" />
+        <item
+            android:id="@+id/nav_5"
+            android:title="Estado del clima" />
+        <item
+            android:id="@+id/nav_6"
+            android:title="horóscopo amet" />
+
+    </group>
+</menu>
